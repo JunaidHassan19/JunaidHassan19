@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/junaidhassan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="120" alt="buymeacoffee.com/junaidhassan" /></a></p><br><br>
+<p align="center"><a href="https://paypal.me/junaidhassan19?country.x=IN&locale.x=en_GB"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="120" alt="buymeacoffee.com/junaidhassan" /></a></p><br><br>
 
 
 
