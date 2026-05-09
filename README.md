@@ -126,14 +126,16 @@ const junaid = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Swallowing Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunaidHassan19/JunaidHassan19/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunaidHassan19/JunaidHassan19/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/JunaidHassan19/JunaidHassan19/output/github-snake.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunaidHassan19/JunaidHassan19/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunaidHassan19/JunaidHassan19/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/JunaidHassan19/JunaidHassan19/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
