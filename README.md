@@ -75,21 +75,6 @@ const junaid = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunaidHassan19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidHassan19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidHassan19&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-</div>
-
----
 
 ## ⚔️ LeetCode Journey
 
