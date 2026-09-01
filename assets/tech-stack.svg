@@ -1,1 +1,157 @@
 
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <style>
+    .cat { font: 700 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9aa4b2; letter-spacing: 1px; text-transform: uppercase; }
+    .chip-text { font: 600 13.5px 'Segoe UI', Helvetica, Arial, sans-serif; }
+  </style>
+</defs>
+
+<rect width="900" height="600" rx="14" fill="#0d1117"/>
+<text x="24" y="30" class="cat">Languages</text>
+<g transform="translate(24,50)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="10,60" to="24,50" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="53" height="34" rx="17" fill="#00599C"/>
+  <text x="27" y="22" text-anchor="middle" class="chip-text" fill="#fff">C++</text>
+</g>
+<g transform="translate(87.11,50)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="73.11,60" to="87.11,50" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="61" height="34" rx="17" fill="#ED8B00"/>
+  <text x="31" y="22" text-anchor="middle" class="chip-text" fill="#fff">Java</text>
+</g>
+<g transform="translate(158.58999999999997,50)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="144.58999999999997,60" to="158.58999999999997,50" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="78" height="34" rx="17" fill="#3776AB"/>
+  <text x="39" y="22" text-anchor="middle" class="chip-text" fill="#fff">Python</text>
+</g>
+<g transform="translate(246.80999999999997,50)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="232.80999999999997,60" to="246.80999999999997,50" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="112" height="34" rx="17" fill="#F7DF1E"/>
+  <text x="56" y="22" text-anchor="middle" class="chip-text" fill="#000">JavaScript</text>
+</g><text x="24" y="110" class="cat">Frontend  ✅</text>
+<g transform="translate(24,130)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="10,140" to="24,130" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="70" height="34" rx="17" fill="#20232A"/>
+  <text x="35" y="22" text-anchor="middle" class="chip-text" fill="#61DAFB">React</text>
+</g>
+<g transform="translate(103.85,130)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="89.85,140" to="103.85,130" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="103" height="34" rx="17" fill="#7952B3"/>
+  <text x="52" y="22" text-anchor="middle" class="chip-text" fill="#fff">Bootstrap</text>
+</g>
+<g transform="translate(217.18,130)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="203.18,140" to="217.18,130" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="70" height="34" rx="17" fill="#E34F26"/>
+  <text x="35" y="22" text-anchor="middle" class="chip-text" fill="#fff">HTML5</text>
+</g>
+<g transform="translate(297.03,130)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="283.03,140" to="297.03,130" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="61" height="34" rx="17" fill="#1572B6"/>
+  <text x="31" y="22" text-anchor="middle" class="chip-text" fill="#fff">CSS3</text>
+</g><text x="24" y="190" class="cat">Terminal / CLI  ✅</text>
+<g transform="translate(24,210)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="10,220" to="24,210" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="61" height="34" rx="17" fill="#4EAA25"/>
+  <text x="31" y="22" text-anchor="middle" class="chip-text" fill="#fff">Bash</text>
+</g>
+<g transform="translate(95.47999999999999,210)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="81.47999999999999,220" to="95.47999999999999,210" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="70" height="34" rx="17" fill="#FCC624"/>
+  <text x="35" y="22" text-anchor="middle" class="chip-text" fill="#000">Linux</text>
+</g>
+<g transform="translate(175.32999999999998,210)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="161.32999999999998,220" to="175.32999999999998,210" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="53" height="34" rx="17" fill="#F05032"/>
+  <text x="27" y="22" text-anchor="middle" class="chip-text" fill="#fff">Git</text>
+</g>
+<g transform="translate(238.44,210)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="224.44,220" to="238.44,210" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="78" height="34" rx="17" fill="#181717"/>
+  <text x="39" y="22" text-anchor="middle" class="chip-text" fill="#fff">GitHub</text>
+</g><text x="24" y="270" class="cat">Backend  🔄</text>
+<g transform="translate(24,290)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="10,300" to="24,290" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="87" height="34" rx="17" fill="#43853D"/>
+  <text x="43" y="22" text-anchor="middle" class="chip-text" fill="#fff">Node.js</text>
+</g>
+<g transform="translate(120.59,290)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="106.59,300" to="120.59,290" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="112" height="34" rx="17" fill="#000000"/>
+  <text x="56" y="22" text-anchor="middle" class="chip-text" fill="#fff">Express.js</text>
+</g>
+<g transform="translate(242.29000000000002,290)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="228.29000000000002,300" to="242.29000000000002,290" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="78" height="34" rx="17" fill="#092E20"/>
+  <text x="39" y="22" text-anchor="middle" class="chip-text" fill="#fff">Django</text>
+</g>
+<g transform="translate(330.51,290)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="316.51,300" to="330.51,290" begin="0.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="70" height="34" rx="17" fill="#222222"/>
+  <text x="35" y="22" text-anchor="middle" class="chip-text" fill="#fff">Flask</text>
+</g><text x="24" y="350" class="cat">Database  🔄</text>
+<g transform="translate(24,370)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="10,380" to="24,370" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="87" height="34" rx="17" fill="#47A248"/>
+  <text x="43" y="22" text-anchor="middle" class="chip-text" fill="#fff">MongoDB</text>
+</g>
+<g transform="translate(120.59,370)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="106.59,380" to="120.59,370" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="70" height="34" rx="17" fill="#4479A1"/>
+  <text x="35" y="22" text-anchor="middle" class="chip-text" fill="#fff">MySQL</text>
+</g>
+<g transform="translate(200.44,370)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="186.44,380" to="200.44,370" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="112" height="34" rx="17" fill="#4169E1"/>
+  <text x="56" y="22" text-anchor="middle" class="chip-text" fill="#fff">PostgreSQL</text>
+</g><text x="24" y="430" class="cat">Tools</text>
+<g transform="translate(24,450)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="10,460" to="24,450" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="87" height="34" rx="17" fill="#007ACC"/>
+  <text x="43" y="22" text-anchor="middle" class="chip-text" fill="#fff">VS Code</text>
+</g>
+<g transform="translate(120.59,450)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="106.59,460" to="120.59,450" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="87" height="34" rx="17" fill="#FF6C37"/>
+  <text x="43" y="22" text-anchor="middle" class="chip-text" fill="#fff">Postman</text>
+</g>
+<g transform="translate(217.18,450)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="203.18,460" to="217.18,450" begin="0.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="112" height="34" rx="17" fill="#212121"/>
+  <text x="56" y="22" text-anchor="middle" class="chip-text" fill="#fb7c53">Hoppscotch</text>
+</g><text x="24" y="510" class="cat">Cloud & DevOps</text>
+<g transform="translate(24,530)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="10,540" to="24,530" begin="0.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="128" height="34" rx="17" fill="#4285F4"/>
+  <text x="64" y="22" text-anchor="middle" class="chip-text" fill="#fff">Google Cloud</text>
+</g>
+<g transform="translate(162.44,530)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  <animateTransform attributeName="transform" type="translate" from="148.44,540" to="162.44,530" begin="0.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" additive="sum"/>
+  <rect width="137" height="34" rx="17" fill="#326CE5"/>
+  <text x="68" y="22" text-anchor="middle" class="chip-text" fill="#fff">GKE Autopilot</text>
+</g>
+</svg>
